@@ -1,4 +1,4 @@
-module helloworld
+module hw
 
 go 1.12
 
