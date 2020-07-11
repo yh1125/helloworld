@@ -1,4 +1,4 @@
-module hw
+module github.com/yh1125/helloworld
 
 go 1.12
 
